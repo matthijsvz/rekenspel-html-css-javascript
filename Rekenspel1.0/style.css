@@ -1,0 +1,36 @@
+ body {
+   background-image: url("img/krijtbord.png");
+   background-repeat: no-repeat;
+   background-size: 1450px 730px;
+ }
+
+#head {
+  font-family: 'Roboto Mono', monospace;
+  font-size: 35px;
+  color: white;
+}
+
+
+#wrapper {
+  text-align: center;
+}
+
+#myAssignment {
+  text-align: center;
+  font-size: 145px;
+  font-family: 'Lobster', cursive;
+  color: pink;
+}
+
+#feedback {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+}
+
+#myAnswer {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
